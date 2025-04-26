@@ -1,5 +1,8 @@
 # Panel de Administración React
-
+<ul>
+  <li>Sergio Hernando Barón Rivera 2201885</li>
+  <li>Ricardo Svensson Jaimes Estupiñan 2202007</li>
+</ul>
 ![Vista previa del proyecto](./imagenVista/vista.png)
 
 ## Descripción

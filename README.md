@@ -5,10 +5,14 @@
 ## Descripción
 Proyecto sencillo para gestionar la vista de usuarios, clientes y proveedores, creado con React y Tailwind CSS.
 
-Cuenta con 
+Cuenta con:
+<br>
 -Diseño responsive con Tailwind CSS
+<br>
 -Configuración optimizada con Vite
+<br>
 -Sistema de rutas básico
+<br>
 -Estructura modular escalable
 
 

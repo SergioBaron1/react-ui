@@ -1,6 +1,6 @@
 # Panel de Administración React
 
-![Vista previa del proyecto](./src/assets/management.png)
+![Vista previa del proyecto](./imagenVista/vista.png)
 
 ## Descripción
 Proyecto sencillo para gestionar la vista de usuarios, clientes y proveedores, creado con React y Tailwind CSS.

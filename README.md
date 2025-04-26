@@ -11,7 +11,7 @@ Posteriormente configuramos las rutas en App.jsx y ejecutamos el proyecto.
 
 ## Cómo Ejecutar proyecto
 1. Instala las dependencias:
-npm install
+- **npm install**
 
 2. Inicia el servidor en puerto 5173:
-npm run dev
+- **npm run dev**

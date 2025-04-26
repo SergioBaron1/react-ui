@@ -1,17 +1,17 @@
-<<<<<<< HEAD
-# react-ui
-ReactJS app
-=======
-# React + Vite
+# Panel de Administración React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Vista previa del proyecto](./src/assets/management.png)
 
-Currently, two official plugins are available:
+## Descripción
+Proyecto sencillo para gestionar la vista de usuarios, clientes y proveedores, creado con React y Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para hacerlo se inicializó el proyecto con Vite y posteriormente se instalaron las dependencias esenciales como lo fue tailwindcss, posteriormente modificamos el Tailwind CSS en el archivo tailwind.config.js y aplicamos la infraestructura adecuada para el proyecto con diferentes carpetas que mostraban el diseño de cada sección, que por el momeno están bastante simples.
 
-## Expanding the ESLint configuration
+Posteriormente configuramos las rutas en App.jsx y ejecutamos el proyecto.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> b688b85 (First commit)
+## Cómo Ejecutar proyecto
+1. Instala las dependencias:
+npm install
+
+2. Inicia el servidor en puerto 5173:
+npm run dev
